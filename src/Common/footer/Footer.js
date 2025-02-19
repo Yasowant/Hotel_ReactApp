@@ -80,7 +80,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <p>© 2023 All Rights Reserved.Developed By Yash</p>
+        <p>© 2023 All Rights Reserved.</p>
       </div>
     </>
   )
